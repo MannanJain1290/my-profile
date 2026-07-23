@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mannan Jain
 
-### Software Developer | B.Tech IT Student | Backend & Cloud Enthusiast
+### Software Developer | B.Tech CSE Student | Backend & Cloud Enthusiast
 
 <p>
 Building practical software, exploring modern backend technologies, and continuously improving my problem-solving skills.
@@ -12,10 +12,10 @@ Building practical software, exploring modern backend technologies, and continuo
 <a href="https://www.linkedin.com/in/sharad-sharma-35687a353/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:sharadsharma1183@gmail.com">
+<a href="mailto:jainmannan8123@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://www.instagram.com/shrd.shrma/">
+<a href="https://www.instagram.com/mannan.j15/">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 </p>
