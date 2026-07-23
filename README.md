@@ -9,7 +9,7 @@ Building practical software, exploring modern backend technologies, and continuo
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/sharad-sharma-35687a353/">
+<a href="www.linkedin.com/in/mannan-jain-683229215">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:jainmannan8123@gmail.com">
