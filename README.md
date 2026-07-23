@@ -26,7 +26,7 @@ Building practical software, exploring modern backend technologies, and continuo
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology student based in New Delhi, India
+- 🎓 B.Tech Computer Science student based in New Delhi, India
 - 💻 Interested in Backend Development, Cloud Computing, DevOps, and Blockchain
 - 🌱 Currently improving my Data Structures & Algorithms and software development skills
 - 🚀 Building practical projects and exploring scalable backend technologies
@@ -68,18 +68,18 @@ Building practical software, exploring modern backend technologies, and continuo
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Shrdx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  src="https://github-readme-stats-fast.vercel.app/api?username=Shrdx&show_icons=true&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=MannanJain1290&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-fast.vercel.app/api?username=MannanJain1290&show_icons=true&theme=tokyonight&hide_border=true"
 height="170"
-  alt="Sharad's GitHub Stats"
+  alt="Mannan's GitHub Stats"
   alt="GitHub Stats"
 />
 
 <br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrdx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shrdx&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MannanJain1290&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MannanJain1290&layout=compact&theme=tokyonight&hide_border=true"
 height="170"
   alt="Sharad's Most Used Languages"
   alt="Most Used Languages"
